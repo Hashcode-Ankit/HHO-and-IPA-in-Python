@@ -1,2 +1,2 @@
-# HHO-and-IPO-in-Python
+# HHO-and-IPA-in-Python
 Based on Research Paper
